@@ -18,7 +18,7 @@ struct AddFoodView: View {
     var body: some View {
         Form {
             Section {
-                TextField("Query", text: $query)
+                TextField("Food", text: $query)
                 
                 VStack {
                     Text("Gram: \(Int(grams))")
