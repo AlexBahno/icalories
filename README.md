@@ -1,4 +1,4 @@
-# icalories
+# iСalories
 -Using CoreData for store all data on phone <br>
 -Using API for calculation calories 
 <p align="center">
